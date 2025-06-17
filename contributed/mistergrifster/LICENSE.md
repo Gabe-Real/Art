@@ -1,0 +1,1 @@
+Copyright (c) MisterGrifster. All rights reserved unless explicitly stated.
