@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="1.05" y="1.05" width="37.9" height="37.9" rx="6.95" fill="url(#paint0_linear_1_68)"/>
+<rect x="1.05" y="1.05" width="37.9" height="37.9" rx="6.95" stroke="#E5E5E5" stroke-width="2.1"/>
+<rect x="6" y="6" width="28" height="28" fill="#999999"/>
+<rect x="6" y="6" width="28" height="28" fill="url(#pattern0_1_68)"/>
+<defs>
+<pattern id="pattern0_1_68" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_68" transform="scale(0.0625)"/>
+</pattern>
+<linearGradient id="paint0_linear_1_68" x1="20" y1="0" x2="20" y2="40" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0E0E0"/>
+</linearGradient>
+<image id="image0_1_68" width="16" height="16" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAGUExUReDg4BwqOWjaOp4AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAxSURBVBjTY8ACBAUYGBgFgQwBEI8RxGCEYJAcWAYsLMCAHcClYIrh2uEGwq1ABQwMAGCoAVWHz3JqAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
